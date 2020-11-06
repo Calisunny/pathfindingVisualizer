@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+.node{
+ height: 20px;
+ width: 20px;
+ border: 1px solid blue;
+ align-items: center;
+ margin-left: 0px;
+ padding: 0px;
+}
+.nodeStart{
+ background-color: green;
+}
+.nodeFinish{
+  background-color: red;
+}
+.nodeFinish2{
+  background-color: chocolate;
+}
+.nodeVisited{
+  background-color: rgb(0, 0, 117);
+}
+.nodeVisited2{
+  background-color: rgb(108, 0, 151);
+}
+.nodePath{
+  background-color: yellow;
+}
+.wall{
+  background-color: black;
+}
+.wallButton{
+  position: absolute;
+  left: 290px;
+  top: 15px;
+  width: 90px;
+}
+.addfinish{
+  position: absolute;
+  left: 290px;
+  top: 40px;
+  width: 90px;
+  height: 35px;
+}
+.selectedNode{
+  position: absolute;
+  left: 170px;
+  top: 20px;
+  height: 50px;
+  background-color: white;
+}
+.clearboard{
+  position: absolute;
+  left: 870px;
+  top: 20px;
+  width: 95px;
+}
+.clearSearch{
+  position: absolute;
+  left: 870px;
+  top: 45px;
+  width: 95px;
+}
+.startendnode{
+  position: absolute;
+  background-color: white;
+  left: 400px;
+  top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.bfs{
+  position: absolute;
+  left: 525px;
+  top: 45px;
+  width: 140px;
+}
+.dfs{
+  position: absolute;
+  left: 525px;
+  top: 20px;
+  width: 140px;
+}
+.recursiveDiv{
+  position: absolute;
+  left: 685px;
+  top: 45px;
+  width: 165px;
+}
+.RandomMaze{
+  position: absolute;
+  left: 685px;
+  top: 20px;
+  width: 165px;
+}
+.slider{
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.selector{
+  position: absolute;
+  right: 10px;
+  top: 60px;
+  width: 80px;
+}
+.wftext{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: yellow;
+}
+.grid{
+  position: absolute;
+  margin-top: 30px;
+  left: 120px;
+  margin-right: 0%;
+  padding: 0%;
+}
+.topbar{
+  position: relative;
+  background-color: rgb(61, 0, 105);
+  height: 80px;
+  width: 99.8%;
+  border: 1px solid black;
+}
+.shift{
+  position: relative;
+  left: 36px;
+}
