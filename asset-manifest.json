@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pathfindingVisualizer/static/css/main.b6aff39f.chunk.css",
-    "main.js": "/pathfindingVisualizer/static/js/main.781bfa83.chunk.js",
-    "main.js.map": "/pathfindingVisualizer/static/js/main.781bfa83.chunk.js.map",
+    "main.css": "/pathfindingVisualizer/static/css/main.3aa8be1c.chunk.css",
+    "main.js": "/pathfindingVisualizer/static/js/main.495aac17.chunk.js",
+    "main.js.map": "/pathfindingVisualizer/static/js/main.495aac17.chunk.js.map",
     "runtime-main.js": "/pathfindingVisualizer/static/js/runtime-main.16062249.js",
     "runtime-main.js.map": "/pathfindingVisualizer/static/js/runtime-main.16062249.js.map",
     "static/js/2.541f2244.chunk.js": "/pathfindingVisualizer/static/js/2.541f2244.chunk.js",
     "static/js/2.541f2244.chunk.js.map": "/pathfindingVisualizer/static/js/2.541f2244.chunk.js.map",
     "index.html": "/pathfindingVisualizer/index.html",
-    "precache-manifest.f17e0fe921d799291ba41f0372880934.js": "/pathfindingVisualizer/precache-manifest.f17e0fe921d799291ba41f0372880934.js",
+    "precache-manifest.92be204757d308568208f07571cff4dc.js": "/pathfindingVisualizer/precache-manifest.92be204757d308568208f07571cff4dc.js",
     "service-worker.js": "/pathfindingVisualizer/service-worker.js",
-    "static/css/main.b6aff39f.chunk.css.map": "/pathfindingVisualizer/static/css/main.b6aff39f.chunk.css.map",
+    "static/css/main.3aa8be1c.chunk.css.map": "/pathfindingVisualizer/static/css/main.3aa8be1c.chunk.css.map",
     "static/js/2.541f2244.chunk.js.LICENSE.txt": "/pathfindingVisualizer/static/js/2.541f2244.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.16062249.js",
     "static/js/2.541f2244.chunk.js",
-    "static/css/main.b6aff39f.chunk.css",
-    "static/js/main.781bfa83.chunk.js"
+    "static/css/main.3aa8be1c.chunk.css",
+    "static/js/main.495aac17.chunk.js"
   ]
 }
